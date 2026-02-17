@@ -1,4 +1,4 @@
-command_id: 743.763.220E01|fc=1
+command_id: 743.763.220E01|fc=1,f=2003-
 test_cases:
 - expected_values:
     PATROL_ODO: 27057
